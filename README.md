@@ -17,24 +17,27 @@ The objective of this project is to analyze sales data using SQL to identify tre
 
 # Schema structure:
 Table 1: pizzas
--pizza_id
--pizza_type_id
--sales
--price
+- pizza_id
+- pizza_type_id
+- sales
+- price
+
 Table 2: Pizza_types'
 - pizza_type_id
 - name
 - category
 - ingredients
+  
 Table 3: orders
--order_id
--order_date
--order_time
+- order_id
+- order_date
+- order_time
+
 Table 4: order_details
--details_id
--order_id
--pizza_id
--quantity
+- details_id
+- order_id
+- pizza_id
+- quantity
   
 # Tools 
 - MySQL
