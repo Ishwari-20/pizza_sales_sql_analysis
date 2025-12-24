@@ -55,4 +55,5 @@ Table 4: order_details
   - Trend-based sales evaluation
 
 # Output of the project:
+<img width="962" height="756" alt="Screenshot 2025-12-24 114904" src="https://github.com/user-attachments/assets/55ce5ce4-f4ee-4512-a9e7-d8066d0af7a9" />
 
